@@ -1,0 +1,20 @@
+.main{
+    width: 100%;
+    background-color: aqua;
+    height: 1000px;
+}
+.box1{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(230, 31, 140);
+}
+.box2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(24, 54, 223);
+}
+.box3{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(175, 57, 10);
+}
